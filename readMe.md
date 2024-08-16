@@ -1,7 +1,7 @@
 # FACEBOOK MESSENGER BOT
-# THIS BOT WAS MADE BY DEKU
+# THIS BOT WAS MADE BY SANO
 ### Contact
-- **Facebook:** [Joshua Sy](https://facebook.com/joshg101)
+- **Facebook:** [Sano](https://facebook.com/Mr.Grathegreat)
 
 ### EXAMPLE ON HOW TO MAKE COMMAND.
 
